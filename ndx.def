@@ -1,0 +1,10 @@
+LIBRARY "ndx.dll"
+
+EXPORTS
+	WinDbgExtensionDllInit
+	ExtensionApiVersion
+	CheckVersion
+
+	lxp
+	slab
+	xdmesg
