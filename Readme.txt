@@ -9,7 +9,7 @@ Resources :
 	5. https://github.com/util-linux/util-linux
 
 Dependencies :
-	windbg development resources (documents/inc)
+	windbg development resources (inc)
 
 Visit our homepage :
 	website	: https://www.nanocode.cn/#/home
